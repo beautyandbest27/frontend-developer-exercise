@@ -87,7 +87,7 @@ $ yarn run build
 
 <div align="center">
  
-![image](https://github.com/beautyandbest27/frontend-developer-exercise/blob/main/screenshots/1.png)
+![image](https://github.com/beautyandbest27/frontend-developer-exercise/blob/master/screenshots/1.png)
 
 </div>
 
